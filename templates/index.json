@@ -26,6 +26,7 @@
           "settings": {
             "img_mobile_height": 500,
             "img_mobile_opacity": 0.7,
+            "img_desktop": "shopify:\/\/shop_images\/5_2_2023_9_28_27_PM.jpg",
             "img_desktop_height": 800,
             "img_desktop_opacity": 0.7,
             "title": "Simple to Use, Easy to Customize",
